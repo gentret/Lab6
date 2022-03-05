@@ -1,3 +1,3 @@
-# [TITLE OF YOUR WEBPAGE] 
+Lab6
 
-[Link to my webpage on the Web]([INCLUDE THE LINK HERE])
+https://gentret.github.io/Lab6/
